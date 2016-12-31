@@ -1,0 +1,14 @@
+body{font-family: tahoma, verdana, arial;}
+.fw_b {font-weight: bold;}
+.f18 {font-size: 18px;}
+.f25 {font-size: 25px;}
+.d5 {float: left; overflow: hidden; width: 5%;}
+.d10 {float: left; overflow: hidden; width: 10%;}
+.d15 {float: left; overflow: hidden; width: 15%;}
+.d20 {float: left; overflow: hidden; width: 20%;}
+.d30 {float: left; overflow: hidden; width: 30%;}
+.d50 {float: left; overflow: hidden; width: 50%;}
+.d90 {float: left; overflow: hidden; width: 90%;}
+.dclear{clear: both;}
+.hide {display: none;}
+.ulti_box {position: fixed; left: 35%; top: 10px; width: 30%; border: 1px solid #f0f0f0; padding: 5px; box-shadow: 1px 2px 3px #999; padding: 10px; border-top: 5px solid #d0d0d0; background: #fff; }
